@@ -43,5 +43,3 @@ VALUES
 (109, 'Arjun Patel', 'arjun@company.com', 'Male', 51000, '2022-05-16', 5),
 (110, 'Pooja Roy', 'pooja@company.com', 'Female', 70000, '2020-08-22', 3);
 
-
-
